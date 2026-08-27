@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.0.1",
+  "versionCode": 8,
+  "versionName": "1.0.2",
   "apkUrl": "https://github.com/karmenhan1996-ui/xiaorui-assistant/releases/latest/download/xiaorui-assistant.apk",
-  "notes": "新增自动更新；包含超like识别、多账号、发帖、评论和每账号转发2条等最新功能。"
+  "notes": "恢复独立评论任务；浏览、评论、转发和发帖可分别选择。"
 }
