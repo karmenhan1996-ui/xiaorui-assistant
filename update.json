@@ -2,5 +2,5 @@
   "versionCode": 8,
   "versionName": "1.0.2",
   "apkUrl": "https://github.com/karmenhan1996-ui/xiaorui-assistant/releases/latest/download/xiaorui-assistant.apk",
-  "notes": "恢复独立评论任务；浏览、评论、转发和发帖可分别选择。"
+  "notes": "新增首页手动检查更新入口；包含独立评论任务。"
 }
