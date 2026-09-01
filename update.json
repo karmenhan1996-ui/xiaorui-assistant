@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.0.2",
+  "versionCode": 10,
+  "versionName": "1.0.4",
   "apkUrl": "https://github.com/karmenhan1996-ui/xiaorui-assistant/releases/latest/download/xiaorui-assistant.apk",
-  "notes": "新增首页手动检查更新入口；包含独立评论任务。"
+  "notes": "修复评论或进度检测后停留在‘我在张函瑞超话’页面的问题；评论和转发保持在张函瑞超话帖子信息流。"
 }
